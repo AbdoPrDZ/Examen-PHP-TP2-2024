@@ -23,3 +23,12 @@
 - delete_student .php: the delete student page
 - student.php: the student page (user infos)
 - students.php: the students page (all students infos)
+
+## Screenshots:
+
+- ![MCD](https://raw.github.com/AbdoPrDZ/Examen-PHP-TP2-2024/main/docs/screenshots/a.png)
+- ![MCD](https://raw.github.com/AbdoPrDZ/Examen-PHP-TP2-2024/main/docs/screenshots/b.png)
+- ![MCD](https://raw.github.com/AbdoPrDZ/Examen-PHP-TP2-2024/main/docs/screenshots/c.png)
+- ![MCD](https://raw.github.com/AbdoPrDZ/Examen-PHP-TP2-2024/main/docs/screenshots/d.png)
+- ![MCD](https://raw.github.com/AbdoPrDZ/Examen-PHP-TP2-2024/main/docs/screenshots/e.png)
+- ![MCD](https://raw.github.com/AbdoPrDZ/Examen-PHP-TP2-2024/main/docs/screenshots/f.png)
